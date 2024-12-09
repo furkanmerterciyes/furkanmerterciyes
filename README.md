@@ -1,4 +1,4 @@
-                                                                          ## FURKAN MERT ERCİYES 
+###                                                                                                 FURKAN MERT ERCİYES 
 
 ### Hakkımda
 - 🌱 Şu anda öğreniyorum: Derin öğrenme, bilgisayarla görü ve yapay zeka.
