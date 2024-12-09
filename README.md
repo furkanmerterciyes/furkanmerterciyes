@@ -5,7 +5,7 @@
 - 👯 İş birliği yapmak istiyorum: Bilgisayarla görü projeleri ve açık kaynak çalışmalar.
 - 🤔 Yardım arıyorum: Karmaşık sinir ağı mimarileri ve veri hazırlama süreçleri hakkında.
 - 💬 Bana sorabilirsiniz: Derin öğrenme, bilgisayarla görü, ve uluslararası değişim programları (Erasmus ve Work and Travel) hakkında.
-- 📫 Bana ulaşın: [furkanmert@example.com](mailto:furkanmert@example.com)
+- 📫 Bana ulaşın: [furkanmertee@gmail.com](mailto:furkanmertee@gmail.com)
 - ⚡ Eğlenceli bir gerçek: Bir yıl içinde 10'dan fazla ülkede bulundum ve farklı kültürleri deneyimledim.
 
 ---
