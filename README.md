@@ -1,4 +1,4 @@
-## Hi there 👋
+                                                                          ## FURKAN MERT ERCİYES 
 
 ### Hakkımda
 - 🌱 Şu anda öğreniyorum: Derin öğrenme, bilgisayarla görü ve yapay zeka.
@@ -17,9 +17,3 @@
 
 ---
 
-### GitHub İstatistiklerim
-![Furkan Mert Erciyes'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=furkanmert-erciyes&show_icons=true&theme=radical)
-
-### Portföy Projelerim
-- [Bilgisayarla Görü Projesi](https://github.com/username/project1)
-- [Derin Öğrenme Modeli](https://github.com/username/project2)
