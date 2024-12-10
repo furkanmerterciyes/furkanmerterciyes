@@ -1,19 +1,17 @@
 <h1 align="center">FURKAN MERT ERCIYES</h1>
 <h3 align="center"></h3>
 
-- Karadeniz Teknik Üniversitesi'nde Elektrik-Elektronik Mühendisliği ve Bilgisayar Mühendisliği bölümlerinde ÇAP öğrencisiyim.
+- I am a double major student in Electrical and Electronics Engineering and Computer Engineering at Karadeniz Technical University.
 
-- Otonom sürüş teknolojileri ve derin öğrenme üzerine çalışıyorum.
+- I develop projects using technologies like Python, MATLAB, C++, and TensorFlow.
 
-- Python, MATLAB, C++ ve TensorFlow gibi teknolojilerle projeler geliştiriyorum.
-
-- Gmail: **furkanmert.erciyes@gmail.com**
+- Gmail: **furkanmertee@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-mert-erciyes/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkanmert.erciyes@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkanmertee@gmail.com)
   
 </div>
 
