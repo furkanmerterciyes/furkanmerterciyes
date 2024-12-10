@@ -3,7 +3,9 @@
 
 - I am a double major student in Electrical and Electronics Engineering and Computer Engineering at Karadeniz Technical University.
 
-- I develop projects using technologies like Python, MATLAB and C.
+- I develop projects using technologies like Python, MATLAB, and C.
+
+- I am working on image processing with Python (using OpenCV), machine learning, and deep learning.
 
 - Gmail: **furkanmertee@gmail.com**
 
@@ -31,15 +33,4 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a>
-</p>
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=furkanmert&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmert&theme=react&layout=compact" />
-</p>
-
-------
-
-[Furkan Mert Erciyes](https://github.com/furkanmert)
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-s
