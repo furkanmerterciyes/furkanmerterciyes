@@ -3,7 +3,7 @@
 
 - I am a double major student in Electrical and Electronics Engineering and Computer Engineering at Karadeniz Technical University.
 
-- I develop projects using technologies like Python, MATLAB, C++, and TensorFlow.
+- I develop projects using technologies like Python, MATLAB and C.
 
 - Gmail: **furkanmertee@gmail.com**
 
